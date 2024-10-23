@@ -3,8 +3,8 @@ class db {
     public $conn;
     protected  $server_name ="localhost";
     protected $user_name ="root";
-    protected $pass ="";
-    protected $db_name="thuvien7";
+    protected $pass ="Dinh@2001";
+    protected $db_name="injection";
     
 
 
